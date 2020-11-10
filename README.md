@@ -1,6 +1,6 @@
 # Artistic_Octocat_Generator
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q45vqbWUjjUx8zEHa2g3j-womIV2Jx9r#scrollTo=s_c2IUXz5oxQ)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q45vqbWUjjUx8zEHa2g3j-womIV2Jx9r#scrollTo=s_c2IUXz5oxQ)
 
 ## Artistic_Octocat_Generator using Convolutional Neural Networks for artistic style transfer
 
